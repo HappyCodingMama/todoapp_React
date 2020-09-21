@@ -1,3 +1,5 @@
 1. npx create-react-app todo_app
 2. powershell -> set-ExecutionPolicy -> RemoteSigned )
    npm install -g firebase-tools
+3. get material icons -> npm i @material-ui-icons
+4. npm run build && firbase deploy
